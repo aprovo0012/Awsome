@@ -41,3 +41,20 @@ Studio allows you to code in multiple different languages such as C++, Python, a
 
 https://visualstudio.microsoft.com/vs/community/
 
+GoDot
+
+In GoDot you are able to program in multiple languages, such as C++, C#, and GDScript. GDScript is GoDot's own programing API.
+
+https://godotengine.org/
+
+Logic Pro
+
+Logic Pro is a sound mixer for apple products the program costs $199.99. It is a highly recomended program, but it does cost a pretty penny. 
+
+https://www.apple.com/logic-pro/
+
+Photopea
+
+Photopea is a free version of photo shop. It functions the same, but with ads. 
+
+https://www.photopea.com/
