@@ -29,3 +29,15 @@ A note taking device that is best for student use. It is aboe to create a graph 
 
 https://obsidian.md/
 
+Blender
+
+Blender helps create 3D models and works well with video editing. 
+
+https://www.blender.org/
+
+Visual Studios
+
+Studio allows you to code in multiple different languages such as C++, Python, and Jave. 
+
+https://visualstudio.microsoft.com/vs/community/
+
