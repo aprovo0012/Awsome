@@ -58,3 +58,19 @@ Photopea
 Photopea is a free version of photo shop. It functions the same, but with ads. 
 
 https://www.photopea.com/
+
+# Game Development Career Pathways
+
+Game Programming
+
+Game Production
+
+Game Design
+
+Software Engineering
+
+Marketing
+
+
+# Game Programing Disciplines
+
