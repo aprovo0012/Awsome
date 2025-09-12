@@ -72,5 +72,18 @@ Software Engineering
 Marketing
 
 
-# Game Programing Disciplines
+# Game Programming Disciplines
 
+1. AI
+
+2. Gameplay
+
+3. UI
+
+4. Rendering
+
+5. Graphics
+
+6. Multiplayers
+
+7. Game Engines
