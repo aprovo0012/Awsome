@@ -76,18 +76,28 @@ Marketing
 
 1. AI
 
-**AI is used to create a more adaptive game that will learn the players skill set as they play. AI iss also used to create an enemy's attack pattern.
+**AI is used to create a more adaptive game that will learn the player's skill set as they play. AI is also used to create an enemy's attack pattern.
 
 2. Gameplay 
 
-**The gameplay programming creates the actual interactions that the lead desinger decides on.
+**The gameplay programming creates the actual interactions that the lead designer has decided on.
 
 4. UI
 
+**The UI is the user interface where people can start the game, change the settings, and find information about the game. ** The UI also consists of the player's visual elements, such as a health bar, a stamina bar, and inventory slots. 
+
 5. Rendering
 
-6. Graphics
+**
 
-7. Multiplayers
+7. Graphics
 
-8. Game Engines
+
+
+9. Multiplayers
+
+
+
+10. Game Engines
+
+
